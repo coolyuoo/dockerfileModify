@@ -1,0 +1,5 @@
+# dockerfileModify
+dockerfileModify真正修改版本
+
+使用vs建立docker範本無法直接執行
+要再修改裡面的路徑範本
